@@ -1,0 +1,68 @@
+Initialize engine version: 5.0.1f1 (5a2e8fe35a68)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics 3000 (ID=0x116)
+    Vendor:   Intel
+    VRAM:     1011 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\HOME\Desktop\gamejamtitans\The Cove_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\HOME\Desktop\gamejamtitans\The Cove_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\HOME\Desktop\gamejamtitans\The Cove_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\HOME\Desktop\gamejamtitans\The Cove_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\HOME\Desktop\gamejamtitans\The Cove_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\HOME\Desktop\gamejamtitans\The Cove_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\HOME\Desktop\gamejamtitans\The Cove_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\HOME\Desktop\gamejamtitans\The Cove_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\HOME\Desktop\gamejamtitans\The Cove_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\HOME\Desktop\gamejamtitans\The Cove_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.068 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initialized touch support.
+Platform assembly: C:\Users\HOME\Desktop\gamejamtitans\The Cove_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\HOME\Desktop\gamejamtitans\The Cove_Data\Managed\System.dll (this message is harmless)
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1de0 -> priority: 1 
+  Thread -> id: e88 -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 84.644432 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 250.
+Total: 24.612713 ms (FindLiveObjects: 13.563374 ms CreateObjectMapping: 0.049450 ms MarkObjects: 10.963501 ms  DeleteObjects: 0.034055 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.539162 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 278.
+Total: 0.580341 ms (FindLiveObjects: 0.040120 ms CreateObjectMapping: 0.062512 ms MarkObjects: 0.449251 ms  DeleteObjects: 0.027524 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.639323 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 254.
+Total: 0.646585 ms (FindLiveObjects: 0.069510 ms CreateObjectMapping: 0.055048 ms MarkObjects: 0.486572 ms  DeleteObjects: 0.034055 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.532756 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 249.
+Total: 0.219727 ms (FindLiveObjects: 0.023792 ms CreateObjectMapping: 0.034521 ms MarkObjects: 0.149750 ms  DeleteObjects: 0.010729 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.834590 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 248.
+Total: 0.372276 ms (FindLiveObjects: 0.033588 ms CreateObjectMapping: 0.032655 ms MarkObjects: 0.285038 ms  DeleteObjects: 0.020060 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.639121 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1222.
+Total: 2.331627 ms (FindLiveObjects: 0.179607 ms CreateObjectMapping: 0.178207 ms MarkObjects: 1.396737 ms  DeleteObjects: 0.574276 ms)
+
+Warning: no main camera found. Third person character needs a Camera tagged "MainCamera", for camera-relative controls.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
